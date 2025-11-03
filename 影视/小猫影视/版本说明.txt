@@ -1,7 +1,0 @@
-catmovie-mac.zip                苹果电脑
-catmovie.ipa                    苹果手机/Ipad
-catmovie.apk                    安卓手机(近几年的手机一般用这个)
-catmovie-legacy.apk             安卓手机(旧手机或者安卓版本较低的用这个)
-catmovie-universal.apk          安卓手机(通用)
-catmovie-windows.zip            Windows电脑
-catmovie-linux-x86_64.tar.gz    Linux 
